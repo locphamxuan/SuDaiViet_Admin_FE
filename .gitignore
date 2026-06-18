@@ -1,0 +1,8 @@
+node_modules
+dist
+.vite-cache
+
+# Bí mật môi trường — KHÔNG commit. Trên Vercel dùng Environment Variables.
+.env
+.env.local
+.env.*.local
